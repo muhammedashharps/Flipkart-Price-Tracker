@@ -1,6 +1,4 @@
-Certainly! Here's a README file for a Flipkart Price Tracker project with files `flipkart_tracker.py`, `main.py`, and `flipkart_tracker.xlsx`:
 
----
 
 # Flipkart Price Tracker
 
